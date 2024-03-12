@@ -6,9 +6,9 @@ using System.Windows.Forms;
 
 namespace fileCryptography
 {
-    public partial class Form1 : Form
+    public partial class FileCryptography : Form
     {
-        public Form1()
+        public FileCryptography()
         {
             InitializeComponent();
             btnBrowse.Click += new EventHandler(btnBrowse_Click);
