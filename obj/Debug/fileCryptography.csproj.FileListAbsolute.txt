@@ -1,0 +1,10 @@
+C:\Users\jrayd\OneDrive\Desktop\funProjects\fileEncryptionDecryption\fileCryptography\bin\Debug\fileCryptography.exe.config
+C:\Users\jrayd\OneDrive\Desktop\funProjects\fileEncryptionDecryption\fileCryptography\bin\Debug\fileCryptography.exe
+C:\Users\jrayd\OneDrive\Desktop\funProjects\fileEncryptionDecryption\fileCryptography\bin\Debug\fileCryptography.pdb
+C:\Users\jrayd\OneDrive\Desktop\funProjects\fileEncryptionDecryption\fileCryptography\obj\Debug\fileCryptography.csproj.AssemblyReference.cache
+C:\Users\jrayd\OneDrive\Desktop\funProjects\fileEncryptionDecryption\fileCryptography\obj\Debug\fileCryptography.Form1.resources
+C:\Users\jrayd\OneDrive\Desktop\funProjects\fileEncryptionDecryption\fileCryptography\obj\Debug\fileCryptography.Properties.Resources.resources
+C:\Users\jrayd\OneDrive\Desktop\funProjects\fileEncryptionDecryption\fileCryptography\obj\Debug\fileCryptography.csproj.GenerateResource.cache
+C:\Users\jrayd\OneDrive\Desktop\funProjects\fileEncryptionDecryption\fileCryptography\obj\Debug\fileCryptography.csproj.CoreCompileInputs.cache
+C:\Users\jrayd\OneDrive\Desktop\funProjects\fileEncryptionDecryption\fileCryptography\obj\Debug\fileCryptography.exe
+C:\Users\jrayd\OneDrive\Desktop\funProjects\fileEncryptionDecryption\fileCryptography\obj\Debug\fileCryptography.pdb
